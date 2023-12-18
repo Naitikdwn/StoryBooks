@@ -1,0 +1,55 @@
+body {
+  /* color: rgb(37, 0, 18); */
+  background-color: white;
+}
+p {
+  margin: 10px 0 !important;
+}
+.lead {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+}
+.login-container {
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+  /* color: aqua;
+   */
+  /* background-color: cornflowerblue; */
+}
+
+.random {
+  display: flex;
+  margin-top: 5px;
+  /* margin: 10px; */
+  /* padding: 10px; */
+}
+.fa-small {
+  font-size: 16px !important;
+}
+.img-small {
+  width: 180px;
+}
+body {
+  /* display: flex; */
+  background-image: -webkit-linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  background-image: -moz-linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  background-image: -o-linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+}
+.card {
+  /* text-align: center; */
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  /* background-image: linear-gradient(to right, #00b4db, #0083b0); */
+  /* border: 2px solid black; */
+}
+.TableRow {
+  background-color: rgba(242, 242, 242, 0.5);
+  border-bottom: 1px solid black;
+}
+/* .container {
+  width: 400px;
+  text-align: center;
+  
+} */
